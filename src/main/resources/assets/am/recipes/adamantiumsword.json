@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        "NIN",
+        " I "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "am:blueadamantiumingot"
+        },
+        
+        "N":
+        {
+            "item": "am:blueadamantiumnugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "am:blue_adamantium_sword",
+        "count": 1
+    }
+}
