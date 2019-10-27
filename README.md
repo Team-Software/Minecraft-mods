@@ -1,5 +1,5 @@
 # Blue Adamantium Mod
-Este en un mod para la versión Minecraft Forge 1.12.2
+Este en un mod para la versión Minecraft Forge 1.12.2. Desarrollado para el tercer trabajo de mantenimiento de softwared del curso de  Ingeniería de Software.
 
 Contiene 3 nuevos items:
 
