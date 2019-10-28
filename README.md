@@ -11,7 +11,7 @@ Blue Adamantium Sword = Espada de Adamantium Azul
 
 Contiene 1 nuevo bloque:
 
-Adamantite Ore = Mineral de Adamantita
+Blue Adamantium Ore = Mineral de Adamantium Azul
 
 El proyecto de mod aún se encuentra en desarrollo.
 
