@@ -9,6 +9,10 @@ Blue Adamantium Nugget = Pepita de Adamantium Azul
 
 Blue Adamantium Sword = Espada de Adamantium Azul
 
+Contiene 1 nuevo bloque:
+
+Adamantite Ore = Mineral de Adamantita
+
 El proyecto de mod aún se encuentra en desarrollo.
 
 
