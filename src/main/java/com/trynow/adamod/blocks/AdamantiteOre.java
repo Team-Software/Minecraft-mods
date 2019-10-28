@@ -16,19 +16,19 @@ public class AdamantiteOre extends BlockBase{
 		setSoundType(SoundType.METAL);
 		setHardness(5.0F);
 		setResistance(15.0F);
-		setHarvestLevel("pickaxe", 0);
+		setHarvestLevel("pickaxe", 3);
 	}
 	
 	@Override
 	public Item getItemDropped(IBlockState state, Random rand, int fortune) 
 	{
-		return ItemInit.BLUEADAMANTIUMINGOT;
+		return ItemInit.BLUEADAMANTIUMNUGGET;
 	} 	
 
 	@Override
 	public int quantityDropped(Random rand) 
 	{
-		int max = 4;
+		int max = 2;
 		int min = 1;
 		return rand.nextInt(max) + min; 
 	}
