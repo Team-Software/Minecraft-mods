@@ -14,15 +14,3 @@ Contiene 1 nuevo bloque:
 Blue Adamantium Ore = Mineral de Adamantium Azul
 
 El proyecto de mod aún se encuentra en desarrollo.
-
-
-Team-Software:
-
-Piero Herrera Toranzo
-
-Juan Castro Rivera
-
-Christopher Mendoza Dávila
-
-Diego Urrutia Ley
-
