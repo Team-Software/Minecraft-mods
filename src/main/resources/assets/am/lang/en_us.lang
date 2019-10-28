@@ -1,3 +1,6 @@
 item.blueadamantiumingot.name=Blue Adamantium Ingot
 item.blueadamantiumnugget.name=Blue Adamantium Nugget
 item.blue_adamantium_sword.name=Blue Adamantium Sword
+
+//ore
+tile.adamantite_ore.name = Adamantite Ore
