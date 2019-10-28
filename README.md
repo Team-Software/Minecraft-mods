@@ -1,7 +1,7 @@
 # Blue Adamantium Mod
 Este en un mod para la versión Minecraft Forge 1.12.2. Desarrollado para el tercer trabajo de mantenimiento de softwared del curso de  Ingeniería de Software.
 
-Contiene 3 nuevos items:
+Contiene 3 nuevos items :
 
 Blue Adamantium Ingot = Lingote de Adamantium Azul
 
@@ -14,3 +14,6 @@ Contiene 1 nuevo bloque:
 Blue Adamantium Ore = Mineral de Adamantium Azul
 
 El proyecto de mod aún se encuentra en desarrollo.
+
+
+
