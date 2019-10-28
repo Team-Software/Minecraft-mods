@@ -17,8 +17,12 @@ El proyecto de mod aún se encuentra en desarrollo.
 
 
 Team-Software:
+
 Piero Herrera Toranzo
+
 Juan Castro Rivera
+
 Christopher Mendoza Dávila
+
 Diego Urrutia Ley
 
