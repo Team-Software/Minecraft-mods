@@ -23,7 +23,16 @@ public class ItemInit
 	public static final Item BLUEADAMANTIUMINGOT = new ItemBase("blueadamantiumingot");
 	public static final Item BLUEADAMANTIUMNUGGET = new ItemBase("blueadamantiumnugget");
 	
+	public static final Item VIBRANIUMINGOT = new ItemBase("vibraniumingot");
 	
+	//Items Gemas del infinito
+	public static final Item GEMAALMA = new ItemBase("gemaalma");
+	public static final Item GEMAESPACIO = new ItemBase("gemaespacio");
+	public static final Item GEMAMENTE = new ItemBase("gemamente");
+	public static final Item GEMAPODER = new ItemBase("gemapoder");
+	public static final Item GEMAREALIDAD = new ItemBase("gemarealidad");
+	public static final Item GEMATIEMPO = new ItemBase("gematiempo");
+
 	//Tools
 	public static final ItemSword BLUEADAMANTIUMSWORD = new ToolSword("blue_adamantium_sword",MATERIAL_BLUEADAMANTIUM);
 	
