@@ -2,6 +2,7 @@ package com.trynow.adamod;
 
 import com.trynow.adamod.proxy.CommonProxy;
 import com.trynow.adamod.util.Reference;
+import com.trynow.adamod.util.handlers.RegistryHandler;
 import com.trynow.adamod.world.ModWorldGen;
 
 import net.minecraftforge.fml.common.Mod;
@@ -28,6 +29,7 @@ public class Main {
 	public static void PreInit(FMLPreInitializationEvent event)
 	{
 		GameRegistry.registerWorldGenerator(new ModWorldGen(), 3);
+		RegistryHandler.preInitRegistries();
 	}
 	@EventHandler
 	public static void Init(FMLInitializationEvent event){}

@@ -1,6 +1,7 @@
 package com.trynow.adamod.util.handlers;
 
 import com.trynow.adamod.init.BlockInit;
+import com.trynow.adamod.init.EntityInit;
 import com.trynow.adamod.init.ItemInit;
 import com.trynow.adamod.util.IHasModel;
 
@@ -46,5 +47,13 @@ public class RegistryHandler
 				((IHasModel)block).registerModels();
 			}
 		}  
+	}
+	
+	public static void preInitRegistries() {
+		EntityInit.registerEntities();
+		RenderHandler.registerEntityRenders();
+	}
+	
+	public static void postInitRegistries() {
 	}
 }

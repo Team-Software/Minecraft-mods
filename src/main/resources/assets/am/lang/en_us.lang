@@ -2,15 +2,5 @@ item.blueadamantiumingot.name=Blue Adamantium Ingot
 item.blueadamantiumnugget.name=Blue Adamantium Nugget
 item.blue_adamantium_sword.name=Blue Adamantium Sword
 
-item.vibraniumingot.name= Vibranium Ingot
-
-item.gemaalma.name=Gema del Alma
-item.gemaespacio.name=Gema del Espacio
-item.gemamente.name=Gema de la Mente
-item.gemapoder.name=Gema del Poder
-item.gemarealidad.name=Gema de la Realidad
-item.gematiempo.name=Gema del Tiempo
-
-
 //ore
 tile.adamantite_ore.name = Adamantite Ore
