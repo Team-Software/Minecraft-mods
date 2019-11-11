@@ -22,7 +22,7 @@ public class ItemInit
 	//Items
 	public static final Item BLUEADAMANTIUMINGOT = new ItemBase("blueadamantiumingot");
 	public static final Item BLUEADAMANTIUMNUGGET = new ItemBase("blueadamantiumnugget");
-	
+	public static final Item ADAMANTIUMBONE = new ItemBase("adamantiumbone"); 
 	
 	//Tools
 	public static final ItemSword BLUEADAMANTIUMSWORD = new ToolSword("blue_adamantium_sword",MATERIAL_BLUEADAMANTIUM);

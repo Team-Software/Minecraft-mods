@@ -1,5 +1,8 @@
 package com.trynow.adamod.entity;
 
+import com.trynow.adamod.init.ItemInit;
+import com.trynow.adamod.util.handlers.LootTableHandler;
+
 import net.minecraft.entity.EntityAgeable;
 import net.minecraft.entity.SharedMonsterAttributes;
 import net.minecraft.entity.ai.EntityAIFollowParent;
@@ -8,15 +11,18 @@ import net.minecraft.entity.ai.EntityAIMate;
 import net.minecraft.entity.ai.EntityAIPanic;
 import net.minecraft.entity.ai.EntityAIRunAroundLikeCrazy;
 import net.minecraft.entity.ai.EntityAISwimming;
+import net.minecraft.entity.ai.EntityAITempt;
 import net.minecraft.entity.ai.EntityAIWanderAvoidWater;
 import net.minecraft.entity.ai.EntityAIWatchClosest;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.passive.AbstractHorse;
 import net.minecraft.entity.passive.EntitySkeletonHorse;
 import net.minecraft.init.SoundEvents;
+import net.minecraft.item.Item;
 import net.minecraft.util.DamageSource;
 import net.minecraft.util.SoundEvent;
 import net.minecraft.world.World;
+import net.minecraft.util.ResourceLocation;
 
 //
 
@@ -66,6 +72,14 @@ public class EntityAdamantiumHorse extends EntitySkeletonHorse {
 	{
 		return SoundEvents.ENTITY_SKELETON_HORSE_DEATH;
 	}
+	
+	
+	//item
+	@Override
+	protected ResourceLocation getLootTable() {
+		return LootTableHandler.ENTITY_ADAMANTIUMHORSE;
+	}
+	
 }
 
 
