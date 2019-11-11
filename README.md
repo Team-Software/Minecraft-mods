@@ -22,6 +22,7 @@ Adamantium Horse = Caballo de Adamantium
 Nuevo material añadido:
 
 Adamantium Bone = Hueso de Adamantium 
+
 Se obtiene como drop del Adamantium Horse
 
 El proyecto de mod aún se encuentra en desarrollo.
