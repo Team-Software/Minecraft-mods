@@ -9,26 +9,24 @@ Blue Adamantium Nugget = Pepita de Adamantium Azul
 
 Blue Adamantium Sword = Espada de Adamantium Azul
 
-Vibranium Ingot = Lingote de Vibranium
-
-Gema del Alma
-
-Gema del Poder
-
-Gema de la Realidad
-
-Gema de la Mente
-
-Gema del Espacio
-
-Gema del Tiempo
-
 
 Contiene 1 nuevo bloque:
 
 Blue Adamantium Ore = Mineral de Adamantium Azul
 
+
+Entidad Añadida:
+
+Adamantium Horse = Caballo de Adamantium
+
+Nuevo material añadido
+
+Adamantium Bone = Hueso de Adamantium 
+Se obtiene como drop del Adamantium Horse
+
 El proyecto de mod aún se encuentra en desarrollo.
+
+
 
 
 
